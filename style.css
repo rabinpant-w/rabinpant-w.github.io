@@ -12,20 +12,20 @@ img {
 }
 
 h1 {
-	background-color: #50394c;
+	background-color: black;
 	text-align: center;
 	text-decoration: blink;
 	text-shadow: 1px 1px #625750; text-decoration-color: #d4ac6e;
-	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26.399999618530273px;; 
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-color: gold; font-size: 24px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26.399999618530273px;; 
 	border: double; border-radius: 25px;
 }
 
 h2 {
-	background-color: #d4ac6e;
+	background-color: gold;
 	text-align: center;
 	text-decoration: blink;
 	text-shadow: 1px 1px #fefbd8; text-decoration-color: #50394c;
-	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26.399999618530273px;; 
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-color: black;font-size: 24px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26.399999618530273px;; 
 	border: double; border-radius: 25px;
 }
 
