@@ -12,7 +12,7 @@ img {
 }
 
 h1 {
-	background-color: linear-gradient(#f4e1d2,white);
+	background-color: blue;
 	text-align: center;
 	text-decoration: blink;
 	text-shadow: 4px 4px #625750; text-decoration-color: white;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-	background-color: linear-gradient(#f4e1d2,white);
+	background-color: blue;
 	text-align: center;
 	text-decoration: blink;
 	text-shadow: 4px 4px #fefbd8; text-decoration-color: white;
