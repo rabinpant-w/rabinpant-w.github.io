@@ -1,7 +1,7 @@
 html {
 	background-image: linear-gradient(#f4e1d2,white);
 	margin: 25px; padding:25px;
-	border: dotted; border-radius: 25px;
+	border: double; border-radius: 25px;
 }
 
 img {
