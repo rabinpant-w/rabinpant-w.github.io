@@ -1,24 +1,17 @@
-html {
-	margin: 15px; padding:15px;
-	align-items: center;
-	padding: auto;
-	background-image: url('home.jpg');
-	background-repeat: no-repeat,no-repeat;
-	max-width: fit-content;
-	align-content: center;
-}
-
 body {
 	text-align: center;
 	text-decoration-color: white;
 	font-family: "Courier New", serif; font-size: 96px;
-	border: double; border-radius: 25px; border-color: rgb(226, 128, 0);
+	border: double; border-radius: 25px; border-color: rgb(226, 128, 0); 
   	padding: 15px;
-	
+	background-image: url("home.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 h1 {
-	text-align: center;
+	display: contents;
+	max-width: fit-content;
 	text-decoration: blink;
 	text-shadow: 4px 4px #0f0d0c; text-decoration-color: black;
 	font-family: Copperplate, "Copperplate Gothic Light", fantasy; color: rgb(226, 128, 0); font-size: 48px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26.399999618530273px;; 
