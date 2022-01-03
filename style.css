@@ -1,0 +1,39 @@
+html {
+	margin: 15px; padding:15px;
+	align-items: center;
+	padding: auto;
+	background-image: url('index.jpeg');
+	background-repeat: no-repeat,no-repeat;
+	max-width: fit-content;
+	align-content: center;
+}
+
+body {
+	text-align: center;
+	text-decoration-color: white;
+	font-family: "Courier New", serif; font-size: 96px;
+	border: double; border-radius: 25px; border-color: rgb(226, 128, 0); max-width: fit-content;
+  	padding: 15px;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: blink;
+	text-shadow: 4px 4px #0f0d0c; text-decoration-color: black;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy; color: rgb(226, 128, 0); font-size: 48px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26.399999618530273px;; 
+	border: double; border-radius: 25px; border-color: rgb(119, 67, 0);
+}
+
+button {
+	background-color: hsl(0, 1%, 30%); 
+  	border: dashed; border-color: black;
+  	color: hsl(26, 63%, 69%);
+  	padding: 2px 24px;
+  	text-align: center;
+  	text-decoration: none;
+ 	 display: inline-block;
+  	box-shadow: 5px 5px black;
+  	font-size: 55px;  font-family: "Lucida Console", Monaco, monospace;
+}
+
+
